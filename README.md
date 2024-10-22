@@ -14,7 +14,7 @@
  
 <br>
  
-### Para mais sobre programação mim!
+### Para mais sobre mim!
  
 <div> 
   <a href = "mailto:fgedramaetins1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
